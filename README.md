@@ -5,3 +5,4 @@
 <img width="1201" alt="Screenshot 2023-08-02 at 11 16 45 PM" src="https://github.com/openSourcebd99/laravel-x-shop/assets/125869281/2121c439-0a65-4dfb-9162-eea7d6ebf004">
 <img width="1454" alt="Screenshot 2023-08-02 at 11 56 17 PM" src="https://github.com/openSourcebd99/laravel-x-shop/assets/125869281/f8da33a5-a988-4eaf-ab01-5d241c261caa">
 <img width="1444" alt="Screenshot 2023-08-02 at 11 56 25 PM" src="https://github.com/openSourcebd99/laravel-x-shop/assets/125869281/ed21fbd1-769b-4e62-8a44-f088b1bb3e31">
+<img width="882" alt="Screenshot 2023-08-02 at 11 59 50 PM" src="https://github.com/openSourcebd99/laravel-x-shop/assets/125869281/4ca07589-bd1e-4d60-a691-17efb4703933">
